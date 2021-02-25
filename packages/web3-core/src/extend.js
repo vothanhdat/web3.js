@@ -23,7 +23,7 @@
 "use strict";
 
 
-var formatters = require('web3-core-helpers').formatters;
+var formatters = require('resfinex-web3-core-helpers').formatters;
 var Method = require('web3-core-method');
 var utils = require('web3-utils');
 

@@ -29,8 +29,8 @@
 
 
 var version = require('../package.json').version;
-var core = require('web3-core');
-var Eth = require('web3-eth');
+var core = require('resfinex-web3-core');
+var Eth = require('resfinex-web3-eth');
 var Net = require('web3-net');
 var Personal = require('web3-eth-personal');
 var Shh = require('web3-shh');
